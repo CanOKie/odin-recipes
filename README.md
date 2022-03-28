@@ -1,0 +1,1 @@
+This is webpage will have commonly used recipes and more.  I intend on practicing my html skills by using my standard boilerplate.  I will use headers of different sizes, emphasize and italize text, create links, use p tags as well.  I might throw in some images as well ;-)
